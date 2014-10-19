@@ -1,0 +1,17 @@
+/*
+Theme Name: RealHomes Child Theme
+Theme URI: http://alt-realhomes.inspirythemes.com/
+Description: Child theme for RealHomes.
+Author: Inspiry Themes
+Author URI: http://www.inspirythemes.com/
+Template: realhomes
+Version: 1.1
+
+
+!!! IMPORTANT !!!
+PLEASE ADD YOUR CSS STYLES IN child-custom.css FILE instead of style.css
+!!! IMPORTANT !!!
+
+*/
+
+@import url("../realhomes/style.css");

@@ -1,0 +1,28 @@
+[23-Sep-2014 00:16:46 UTC] PHP Parse error:  syntax error, unexpected ''framewo' (T_ENCAPSED_AND_WHITESPACE) in /home3/enlafinc/public_html/wp-content/themes/realhomes/framework/include/property-post-type.php on line 89
+[23-Sep-2014 00:51:44 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home3/enlafinc/public_html/wp-content/themes/realhomes/framework/include/property-post-type.php on line 254
+[23-Sep-2014 00:51:59 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home3/enlafinc/public_html/wp-content/themes/realhomes/framework/include/property-post-type.php on line 254
+[23-Sep-2014 01:17:57 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home3/enlafinc/public_html/wp-content/themes/realhomes/framework/include/property-post-type.php on line 254
+[23-Sep-2014 01:17:59 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home3/enlafinc/public_html/wp-content/themes/realhomes/framework/include/property-post-type.php on line 254
+[23-Sep-2014 02:06:55 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home3/enlafinc/public_html/wp-content/themes/realhomes/framework/include/property-post-type.php on line 254
+[23-Sep-2014 02:06:59 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home3/enlafinc/public_html/wp-content/themes/realhomes/framework/include/property-post-type.php on line 254
+[23-Sep-2014 02:49:46 UTC] PHP Warning:  file_put_contents(/home3/enlafinc/public_html/wp-content/uploads/userpro/.htaccess): failed to open stream: No such file or directory in /home3/enlafinc/public_html/wp-content/plugins/userpro/functions/api.php on line 1817
+[23-Sep-2014 14:14:24 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home3/enlafinc/public_html/wp-content/themes/realhomes/framework/include/property-post-type.php on line 254
+[23-Sep-2014 14:14:36 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home3/enlafinc/public_html/wp-content/themes/realhomes/framework/include/property-post-type.php on line 254
+[23-Sep-2014 14:14:41 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home3/enlafinc/public_html/wp-content/themes/realhomes/framework/include/property-post-type.php on line 254
+[23-Sep-2014 14:14:50 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home3/enlafinc/public_html/wp-content/themes/realhomes/framework/include/property-post-type.php on line 254
+[23-Sep-2014 14:14:59 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home3/enlafinc/public_html/wp-content/themes/realhomes/framework/include/property-post-type.php on line 254
+[23-Sep-2014 14:15:02 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home3/enlafinc/public_html/wp-content/themes/realhomes/framework/include/property-post-type.php on line 254
+[23-Sep-2014 17:31:50 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home3/enlafinc/public_html/wp-content/themes/realhomes/framework/include/property-post-type.php on line 254
+[24-Sep-2014 11:44:17 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home3/enlafinc/public_html/wp-content/themes/realhomes/framework/include/property-post-type.php on line 254
+[24-Sep-2014 12:24:01 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home3/enlafinc/public_html/wp-content/themes/realhomes/framework/include/property-post-type.php on line 254
+[29-Sep-2014 01:15:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home3/enlafinc/public_html/wp-content/themes/realhomes/framework/include/slide-post-type.php on line 111
+[07-Oct-2014 10:23:42 America/Denver] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[07-Oct-2014 14:27:41 America/Denver] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[07-Oct-2014 14:53:53 America/Denver] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[15-Oct-2014 10:06:53 America/Denver] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[15-Oct-2014 11:14:40 America/Denver] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[16-Oct-2014 13:28:55 America/Denver] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[16-Oct-2014 13:31:31 America/Denver] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[16-Oct-2014 13:33:09 America/Denver] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[16-Oct-2014 13:33:53 America/Denver] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[16-Oct-2014 13:35:51 America/Denver] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0

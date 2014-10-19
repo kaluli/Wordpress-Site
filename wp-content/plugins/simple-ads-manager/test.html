@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+  <title>Ad campaign report</title>
+  <style type="text/css">
+    body {
+      font-size: 15px;
+      font-family: Arial, Helvetica, Tahoma, sans-serif;
+    }
+
+    .sam-table {
+      border-collapse: separate;
+      border-spacing: 1px;
+      background-color: #CDCDCD;
+      margin: 10px 0 15px 0;
+      font-size: 9pt;
+      font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+      width: 100%;
+      text-align: left;
+      line-height: 20px;
+    }
+    .sam-table th {
+      background-color: #E6EEEE;
+      border: 1px solid #FFFFFF;
+      padding: 4px;
+      color: #3D3D3D!important;
+    }
+    .sam-table td {
+      color: #3D3D3D;
+      padding: 4px;
+      background-color: #FFFFFF;
+      vertical-align: top;
+    }
+    .even {border: 1px solid #ddd;}
+    .even td {background-color: #FFFFFF;}
+    .odd td {background-color: #F9FDFF;}
+    .w25 {
+      width: 25%;
+    }
+    .w10 {
+      width: 10%;
+    }
+    .mess {
+      font-family: Arial, Helvetica, Tahoma, sans-serif;
+      font-size: 11px;
+    }
+    .total {font-size: 13px}
+  </style>
+</head>
+<body>
+<p>Hi! minimus!</p>
+<p>This is your Ad Campaing Report:</p>
+<table class="sam-table">
+  <thead>
+    <tr>
+      <th class="w25">Name</th>
+      <th class="w25">Description</th>
+      <th class="w10">Hits</th>
+      <th class="w10">Clicks</th>
+      <th class="w10">CPM</th>
+      <th class="w10">CPC</th>
+      <th class="w10">CTR</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="even"><td>{$ad['name']}</td><td>{$ad['description']}</td><td>{$ad['ad_hits']}</td><td>{$ad['ad_clicks']}</td><td>{$ad['e_cpm']}</td><td>{$ad['e_cpc']}</td><td>{$ad['e_ctr']}</td></tr>
+    <tr class="odd"><td>{$ad['name']}</td><td>{$ad['description']}</td><td>{$ad['ad_hits']}</td><td>{$ad['ad_clicks']}</td><td>{$ad['e_cpm']}</td><td>{$ad['e_cpc']}</td><td>{$ad['e_ctr']}</td></tr>
+  </tbody>
+</table>
+<p class="total">Hits: {$hits}</p>
+<p class="total">Clicks: {$clicks}</p>
+<p class="mess">Do not respond to this email! This mail was sent automatically by Wordpress plugin Simple Ads Manager.</p>
+<p class="mess">
+  You received this email because you are an advertiser of site "blog". If time of your campaign expires or if you refuse to post your ads on our site, you will be excluded from the mailing list automatically. Thank you for your cooperation.
+</p>
+<script type="text/javascript">
+/* <![CDATA[ */
+function affiliateLink(str){ str = unescape(str); var r = ''; for(var i = 0; i < str.length; i++) r += String.fromCharCode(4^str.charCodeAt(i)); document.write(r); }
+affiliateLink('8e%24lvab9%26lppt%3E++sss*pa%7Cp%29hmjo%29e%60w*gki+%3Bvab976523%3C%26%3A8mic%24wvg9%26lppt%3E++sss*pa%7Cp%29hmjo%29e%60w*gki+miecaw+fejjavw+fqmh%60%2936%3C%7C%3D4*cmb%26%24fkv%60av9%264%26%24ehp9%26Pa%7Cp%24Hmjo%24E%60w%26+%3A8+e%3A');
+/* ]]> */
+</script>
+</body>
+</html>

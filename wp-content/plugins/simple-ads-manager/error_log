@@ -1,0 +1,1 @@
+[01-Oct-2014 03:06:54 UTC] Error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , NOW(), 0, "190.179.241.210")' at line 1 de la base de datos de WordPress para la consulta INSERT INTO wp_bcmu_sam_stats (id, pid, event_time, event_type, remote_addr) VALUES (, , NOW(), 0, "190.179.241.210");
